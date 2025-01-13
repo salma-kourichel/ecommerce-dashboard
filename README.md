@@ -74,3 +74,6 @@ The Cron job ensures that the Python script runs every 15 minutes, keeping the d
 ## Conclusion
 
 This project demonstrates the integration of Tableau with external data sources (Fake Store API and Dropbox), allowing for real-time data visualization with automated updates. The use of a cron job to schedule the execution of the Python script ensures that the data is updated automatically without manual intervention.
+
+## note
+**the bash included in this file are for ubuntu users**
