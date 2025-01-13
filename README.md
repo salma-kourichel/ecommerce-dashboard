@@ -31,7 +31,6 @@ cd your-repository
 ```
 ### 2. Install Dependencies
 Install the required Python libraries using the following command:
-Copier le code
 ```bash
 pip install -r requirements.txt
 ```
